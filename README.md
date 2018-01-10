@@ -9,7 +9,7 @@ This is a node.js starter app built in with express framework with mysql databas
 Download the repo or clone it with the following command
 
 ```sh
-git clone node-express-mysql-starter.git
+git clone https://github.com/vincentchacha/node-express-mysql-starter.git
 ```
 Install the required dependencies or packages using npm
 
