@@ -11,6 +11,11 @@ Download the repo or clone it with the following command
 ```sh
 git clone https://github.com/vincentchacha/node-express-mysql-starter.git
 ```
+Navigate into the folder containing project files
+
+```sh
+cd node-express-mysql-starter
+```
 Install the required dependencies or packages using npm
 
 ```sh
