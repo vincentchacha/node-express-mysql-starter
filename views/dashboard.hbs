@@ -1,0 +1,11 @@
+{{> header }}
+
+<h3>{{title}}</h3>
+    <div class="container">
+        <p>You are now logged in</p>
+        <p><b>{{user.fullnames}}</b></p>
+        <form class="form-inline my-2 my-lg-0">
+            <a href="/logout" class="btn btn-outline-success my-2 my-sm-0">Log Out</a>
+        </form>
+    </div>
+{{> footer-end }}
